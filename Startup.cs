@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace WebApplication4
-{
+{//sanjeev added
     public class Startup
     {
         public Startup(IConfiguration configuration)
